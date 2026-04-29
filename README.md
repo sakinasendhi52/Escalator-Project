@@ -24,7 +24,7 @@
 
 <p>Case 2 : Underflow</p>
 
-![Underflow](https://github.com/sakinasendhi52/Escalator-Project/blob/main/pop-underflow.png?raw=true)
+![Underflow](https://github.com/sakinasendhi52/Escalator-Project/blob/main/pop-empty.png?raw=true)
 
 <h3>Peek or Top Operation</h3>
 <p>Case 1 : Display Top Pointer Element</p>
